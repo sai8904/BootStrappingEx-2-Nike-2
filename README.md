@@ -28,4 +28,4 @@ This project is optimized for different screen sizes using **Bootstrap’s respo
 ## 📂 How to Use  
 1. Clone the repository:  
    ```sh
-   git clone https://github.com/your-github-username/shoe-brand-store-2.git
+   git clone https://github.com/sai8904/BootStrappingEx-2-Nike-2
